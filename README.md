@@ -1,2 +1,2 @@
 # dragon-slayer
-Mini game for fighting dragons
+Mini game for fighting a dragon
